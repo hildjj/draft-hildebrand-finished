@@ -1,0 +1,37 @@
+{
+  "name": "draft-hildebrand-finished",
+  "version": "0.0.0",
+  "author": {
+    "name": "Joe Hildebrand",
+    "email": "jhildebr@cisco.com"
+  },
+  "description": "Mark Internet-Drafts as finished",
+  "homepage": "https://github.com/hildjj/draft-hildebrand-finished",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hildjj/draft-hildebrand-finished.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hildjj/draft-hildebrand-finished/issues"
+  },
+  "keywords": [
+    "ID",
+    "RFC",
+    "tombstone",
+    "complete",
+    "finish"
+  ],
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "del": "2.2",
+    "gulp": "3.9",
+    "gulp-live-server": "0.0",
+    "gulp-rename": "1.2",
+    "gulp-util": "3.0",
+    "open": "0.0",
+    "through2": "2.0"
+  },
+  "license": "SEE LICENSE IN http://trustee.ietf.org/docs/IETF-Trust-License-Policy.pdf"
+}
