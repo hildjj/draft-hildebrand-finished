@@ -61,7 +61,7 @@ changes to the document that come out of the consensus-forming process.
 If for some reason an author does want to publish a new version of a
 "finished" document, they will need to create a new draft with a new name.
 
-Note to authors: [TODO: check on what happens to obsoleted I-Ds]
+Note to authors: (TODO: check on what happens to obsoleted I-Ds)
 
 ## Review process
 
@@ -110,8 +110,8 @@ This boilerplate may be replaced with a new paragraph that says:
 
 # Citation {#citation}
 
-[Note: I don't know what to do with citations yet.  "Work In Progress" doesn't
-seem quite right]
+(Note: I don't know what to do with citations yet.  "Work In Progress" doesn't
+seem quite right)
 
 # Suggested workflow {#workflow}
 
@@ -125,7 +125,7 @@ potential options.
 
 # Required tooling changes {#tooling}
 
-Several tools will need to be updated to support marking drafts as "finished":
+Several tools will need to be updated to support marking drafts as "finished".
 
 ## Draft generation tools
 
